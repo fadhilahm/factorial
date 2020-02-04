@@ -1,2 +1,2 @@
 # factorial
-Exercuse to understand how recursive works.
+Exercise to understand how recursive works.
